@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Limonada Digital</string>
+    <string name="frase01">Olá, vamos fazer uma limonada? Toque na árvore para colher o limão...</string>
+    <string name="frase02">Agora clique no limão para expreme-lo...</string>
+    <string name="frase03">Hum... Uma deliciosa limonada está pronta. Vá em frente, toque na limonada para beber...</string>
+    <string name="frase04">Estava deliciosa, agora que acabou, toque no copo para fazer uma nova limonada...</string>
 </resources>
